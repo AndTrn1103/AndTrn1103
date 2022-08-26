@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AndTrn1103
 - 👀 I’m interested in mastering Linux and Cybersecurity
-- 🌱 I’m currently learning Cybersecurity, Comptia A+, Comptia Network +, Comptia Security +
+- 🌱 I’m currently learning Cybersecurity
+- I'm Comptia Security+ Certified
 - 💞️ I’m looking to collaborate on buidling a Linux distro for enhance security.
 - 📫 How to reach me: hoangnguyentran299@gmail.com
 
